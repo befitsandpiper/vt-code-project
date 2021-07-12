@@ -66,9 +66,7 @@ export default function BasicTable(props) {
   const setCellValue = (key, value) => {
     const newForm = {...form};
     newForm[key] = value;
-    console.log({ newForm });
     setForm(newForm);
-    console.log({ form });
   }
 
   const onSave = (row) => {
