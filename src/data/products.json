@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Orlando Team Cornhole Board",
+        "categoryId": 1,
+        "cost": 125.80,
+        "price": 158.80,
+        "quantity": 50
+    },
+    {
+        "id": 2,
+        "name": "Detroit Team Hook and Ring",
+        "categoryId": 2,
+        "cost": 15.80,
+        "price": 21.60,
+        "quantity": 50
+    },
+    {
+        "id": 3,
+        "name": "New York Team Ping Pong Table",
+        "categoryId": 2,
+        "cost": 280.00,
+        "price": 320.60,
+        "quantity": 50
+    },
+    {
+        "id": 4,
+        "name": "Tampa Team Cornhole Board",
+        "categoryId": 1,
+        "cost": 125.80,
+        "price": 158.80,
+        "quantity": 40
+    },
+    {
+        "id": 5,
+        "name": "Chicago Team Cornhole Board",
+        "categoryId": 1,
+        "cost": 125.80,
+        "price": 158.80,
+        "quantity": 40
+    },
+    {
+        "id": 6,
+        "name": "New Jersey Team Ping Pong Table",
+        "categoryId": 2,
+        "cost": 280.00,
+        "price": 320.60,
+        "quantity": 50
+    },
+    {
+        "id": 7,
+        "name": "Detroit Team Hook and Ring",
+        "categoryId": 2,
+        "cost": 15.80,
+        "price": 21.60,
+        "quantity": 20
+    },
+    {
+        "id": 8,
+        "name": "New Jersey Team Ping Pong Table",
+        "categoryId": 2,
+        "cost": 280.00,
+        "price": 320.60,
+        "quantity": 50
+    },
+    {
+        "id": 9,
+        "name": "Miami Team Hook and Ring",
+        "categoryId": 2,
+        "cost": 15.80,
+        "price": 21.60,
+        "quantity": 50
+    },
+    {
+        "id": 10,
+        "name": "Miami Team Cornhole Board",
+        "categoryId": 1,
+        "cost": 125.80,
+        "price": 158.80,
+        "quantity": 50
+    }
+]
